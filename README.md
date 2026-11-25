@@ -1,2 +1,2 @@
 # itaris-web
-Sitio de Itaris - WebArte-Tech (logicore.webartetech.com)
+Sitio de Itaris - WebArte-Tech (itaris.webartetech.com)
